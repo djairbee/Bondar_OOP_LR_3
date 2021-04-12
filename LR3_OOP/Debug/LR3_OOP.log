@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Project\LR3_OOP\Source.cpp(267,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Project\LR3_OOP\Source.cpp(105): warning C4715: 'Vector::operator>=': not all control paths return a value
+  LR3_OOP.vcxproj -> D:\Project\LR3_OOP\Debug\LR3_OOP.exe

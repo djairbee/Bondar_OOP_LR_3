@@ -1,0 +1,2 @@
+D:\Project\LR3_OOP\Debug\LR3_OOP.exe
+D:\Project\LR3_OOP\Debug\LR3_OOP.pdb
